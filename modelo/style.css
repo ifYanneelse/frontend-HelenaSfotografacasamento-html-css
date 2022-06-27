@@ -1,0 +1,146 @@
+.inicio {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.titulo {
+	font: 80px Embassy BT;
+	position: absolute;
+	top: 35%;
+	left: 25%;
+}
+
+.subtitulo{
+	font: 25px Bebas Neue;
+	position: absolute;
+	top: 50%;
+	left: 42%;	
+}
+
+.sobre {
+	margin-top: 100;
+	margin-bottom: 80;
+	color: white;	
+}
+
+.foto-sobre{
+	margin-left: 300;
+	width: 20%;
+}
+
+.titulo-sobre{
+	position: relative;
+	top: -375;
+	left: 625;
+	font: 50px Bebas Neue;
+	color: #E2957C;
+}
+
+.texto-sobre{
+	position: relative;
+	top: -420;
+	left: 625;
+	text-align: left;
+	font: 18px Artifakt Element;
+	color: black;	
+}
+
+.depoimentos{
+	margin-top: -400;
+	background-color: #F1E4BD;
+}
+
+.titulo-depoimentos{
+	padding-top: 30;
+	padding-bottom: 20;
+	font: 50px Bebas Neue;
+	text-align: center;
+	color: #E2957C;
+}
+
+.table{
+	margin-right: 100;
+	margin-left: 100;
+}
+
+.foto-depoimentos{
+	width: 30%;
+}
+
+.texto-depoimentos{
+	padding-top: 10;
+	padding-bottom: 50;
+	font: 18px Artifakt Element;
+	text-align: center;
+	color: black;
+}
+
+.contato{
+  	text-align: center;
+  	margin-bottom: 100;
+}
+
+.titulo-contato{
+	font: 50px Bebas Neue;
+	color: #E2957C;
+}
+
+.texto-contato{
+	margin-top: -30;
+	font: 14px Artifakt Element;
+	color: black;
+}
+
+.instagram {
+	 background-color: #E2957C; 
+	 color: white;
+	 cursor: pointer;
+	 padding: 2px 5px;
+	 text-align: center;
+	 font: 20px Bebas Neue;
+}
+
+.instagram:hover {background-color: #E2A87C}
+
+.email {
+  	margin-top: 10;
+  	margin-bottom: 10;
+  	background-color: #E7D293; 
+  	color: white;
+  	cursor: pointer;
+  	padding: 2px 5px;
+  	text-align: center;
+  	font: 20px Bebas Neue;
+}
+
+.email:hover {background-color: #F1E4BD}
+
+.whatsapp {
+  	margin-top: 10;
+  	background-color: #EDB6AF; 
+ 	color: white;
+  	cursor: pointer;
+  	padding: 2px 5px;
+  	text-align: center;
+  	font: 20px Bebas Neue;
+}
+
+.whatsapp:hover {background-color: #F1E4BD}
+
+.video {
+	margin-top: 20;
+	padding-top: 20;
+	padding-bottom: 70;
+	background-color: #E2957C;
+	font: 50px Bebas Neue;
+	color: #F1E4BD;
+	text-align: center;
+}
+
+.footer {
+	background-color: white;
+	text-align: center;
+	font: 14px Artifakt Element;
+	color: black;
+}
